@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Through_Hole_Pads")(type "KiCad")(uri "${KIPRJMOD}/Through_Hole_Pads.pretty")(options "")(descr ""))
+)
